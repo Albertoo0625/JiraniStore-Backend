@@ -1,0 +1,54 @@
+20230302	 18:16:31	5639908c-59e2-461f-96a6-a1c6637e18d9	Error	Not allowed by CORS
+
+20230302	 18:16:45	0ba8a5da-6314-4ab4-b571-f9bf90664b8c	Error	Not allowed by CORS
+
+20230302	 18:22:39	f93cb804-39cb-4df7-9c4c-4dbe7d64848d	Error	Not allowed by CORS
+
+20230302	 18:24:52	9d0ec7e9-f1ea-4a80-a070-48f63129640e	Error	Not allowed by CORS
+
+20230302	 18:25:24	0946726d-6cb8-423b-8258-a606d4c5e473	Error	Not allowed by CORS
+
+20230302	 18:25:27	79669d5e-71eb-43a8-bfd9-6d21e44062f0	Error	Not allowed by CORS
+
+20230302	 18:26:00	9e336fda-37e4-41ab-8661-749b356b0905	Error	Not allowed by CORS
+
+20230302	 18:26:25	616d17e1-349a-4111-954a-c09f8a9a0f2a	Error	Not allowed by CORS
+
+20230302	 18:27:21	395a042e-c619-43d9-8170-2465a718b894	Error	Not allowed by CORS
+
+20230302	 18:28:05	6b20aff0-3848-41b0-8778-580f617c75f5	Error	Not allowed by CORS
+
+20230302	 18:28:44	551c20dc-ae09-4ce4-ab99-36946d9f91ee	Error	Not allowed by CORS
+
+20230302	 18:29:18	d166ec74-cae9-4d51-9047-212ccc001c82	Error	Not allowed by CORS
+
+20230302	 18:30:08	18b1c189-bc07-40d7-823a-fa22df0200b4	Error	Not allowed by CORS
+
+20230302	 18:31:13	e7ab4031-02ea-49dc-8af2-b7641a0f9f4d	Error	Not allowed by CORS
+
+20230302	 18:31:43	7edb195b-c963-4f54-962f-758597ae6e5c	Error	Not allowed by CORS
+
+20230302	 18:31:43	485e527c-65c1-4c16-a233-bbce2818d1c0	Error	Not allowed by CORS
+
+20230302	 18:32:14	e208e8c3-26cd-4f9c-923c-d23e4d325198	Error	Not allowed by CORS
+
+20230302	 18:32:14	d3aa3030-e1a5-45c1-8f3c-bd1bf502e42f	Error	Not allowed by CORS
+
+20230302	 21:21:42	56576067-338b-499d-b5cb-552823fdfb48	Error	Not allowed by CORS
+
+20230302	 21:21:53	ce872121-eeeb-43fe-9166-a351db6e5c2e	Error	Not allowed by CORS
+
+20230302	 21:22:14	0739cb1b-c945-4827-af76-f704f61e80bb	Error	Not allowed by CORS
+
+20230303	 14:46:47	14014275-44bf-40cd-acac-38f919d78d41	TypeError	Cannot read properties of undefined (reading 'stkCallback')
+
+20230303	 15:03:13	f131486d-bea0-4950-8b8a-0e6087d5b21c	TypeError	Cannot read properties of undefined (reading 'stkCallback')
+
+20230314	 02:06:55	19cffa20-3ade-4fb6-a0df-1ab38a5db826	Error	Not allowed by CORS
+
+20230404	 10:31:17	0f98a57a-27cd-4ff6-a1aa-a05c43c1519b	ReferenceError	shippingInfo is not defined
+
+20230404	 10:43:38	de0a81d8-67bf-489c-8983-0d950816ffdc	Error	Cannot set headers after they are sent to the client
+
+20230404	 10:43:39	b7701e30-85a5-48ea-a651-1be1fa227130	Error	Cannot set headers after they are sent to the client
+

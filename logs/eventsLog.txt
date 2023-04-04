@@ -1,0 +1,1 @@
+20221008	 08:53:00	e83e835d-2ea7-484f-bb6a-a0836cadf77c	log event emmited

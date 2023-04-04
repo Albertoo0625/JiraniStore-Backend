@@ -1,0 +1,6 @@
+20221008	 10:28:07	035b56d2-27da-402f-a255-17709ad185a5	/	GET
+
+20221008	 10:28:07	1007b69c-208b-484e-b6a6-584cff1bded8	/resources/img/twitter.png	GET
+
+20221008	 10:28:07	31702b25-b446-484f-a573-eadd068b82a2	/resources/img/one.jpg	GET
+
